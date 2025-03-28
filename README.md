@@ -14,7 +14,7 @@ A Python-based face anonymization tool using OpenCV that detects and blurs faces
 ## 🖼 Example Output
 
 ### 📌 Original Image
-![Original Face](C:\Users\LOQ\OneDrive\Pictures\Captures d’écran\Screenshot 2025-03-28 102501.png)
+![Original Face](Screenshot 2025-03-28 102501.png)
 
 ### 🔒 Anonymized Image (Blurred Face)
-![Blurred Face](C:\Users\LOQ\OneDrive\Pictures\Captures d’écran\Screenshot 2025-03-28 102531.png)
+![Blurred Face](Screenshot 2025-03-28 102531.png)
