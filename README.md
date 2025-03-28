@@ -10,3 +10,11 @@ A Python-based face anonymization tool using OpenCV that detects and blurs faces
   - Videos (`.mp4`, `.avi`, etc.)
   - Real-time webcam feed.
 - ⚙ **Model Selection**: Choose different face detection models.
+
+## 🖼 Example Output
+
+### 📌 Original Image
+![Original Face](C:\Users\LOQ\OneDrive\Pictures\Captures d’écran\Screenshot 2025-03-28 102501.png)
+
+### 🔒 Anonymized Image (Blurred Face)
+![Blurred Face](C:\Users\LOQ\OneDrive\Pictures\Captures d’écran\Screenshot 2025-03-28 102531.png)
